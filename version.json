@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/MOLOTOVrt/myapp-files/releases/download/v1.0.7/Update.zip",
-  "exe_url": "https://github.com/MOLOTOVrt/myapp-files/releases/download/v1.0.7/updater.exe",
-  "notes": "Убрано предупреждение PyInstaller"
+  "version": "1.0.6",
+  "url": "https://github.com/MOLOTOVrt/myapp-files/releases/download/v1.0.6/Update.zip",
+  "exe_url": "https://github.com/MOLOTOVrt/myapp-files/releases/download/v1.0.6/updater.exe",
+  "notes": "Стабильная версия"
 }
